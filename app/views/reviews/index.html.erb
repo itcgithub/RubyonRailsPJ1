@@ -1,0 +1,31 @@
+<h1>Reviews</h1>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>User</th>
+      <th>Book</th>
+      <th>Description</th>
+      <th ></th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @reviews.each do |review| %>
+      <tr>
+        <td><%= review.user.id %></td>
+        <td><%= review.book.title %></td>
+        <td>
+          <%= review.description.truncate(30) %>
+          <% if review.description.length > 30 %>
+            <%= link_to '続きを読む', book_review_path(review.book, review), :class => 'btn btn-link' %>
+          <% end %>
+        </td>
+        <td class="text-right">
+          <%= link_to 'Edit', edit_book_review_path(review.book, review), :class => 'btn btn-default btn-xs' %>
+          <%= link_to 'Destroy', review_path(review), :class => 'btn btn-xs btn-danger',
+                      :method => :delete, :data => 'Are you sure?' %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+<%= paginate @reviews %>

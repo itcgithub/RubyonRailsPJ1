@@ -1,0 +1,10 @@
+<h1>Books</h1>
+<form action="<%= books_path %>" method="get" class="form-inline">
+  <input class="form-control" type="text" name="s_title" value="<%= request[:s_title] %>">
+  <% options = options_for_select(Category.all.map{|c| [c.name, c.id]}, request[:s_category]) %>
+  <%= select_tag(:s_category, options, { include_blank: true, class: 'form-control' }) %>
+  <button class="btn btn-default" type="submit">検索</button>
+</form>
+<%= render 'table', books: @books %>
+<%= paginate @books %>
+<%= link_to 'New Book', new_book_path, :class => 'btn btn-primary' %>

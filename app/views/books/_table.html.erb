@@ -1,0 +1,23 @@
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Author</th>
+      <th>&nbsp;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% books.each do |book| %>
+      <tr>
+        <td><%= book.title %></td>
+        <td><%= book.author %></td>
+        <td class="text-right">
+          <%= link_to 'Review', new_book_review_path(book), :class => 'btn btn-link btn-xs' %>
+          <%= link_to 'Edit', edit_book_path(book), :class => 'btn btn-link btn-xs' %>
+          <%= link_to 'Delete', book_path(book), :class => 'btn btn-xs btn-danger',
+                      :method => :delete, :data => { :confirm => 'Are you sure?' } %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>

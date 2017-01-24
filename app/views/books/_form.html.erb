@@ -1,0 +1,8 @@
+<%= simple_form_for(book) do |f| %>
+  <%= f.input :title %>
+  <%= f.input :author %>
+  <%= f.association :categories, as: :select, multiple: true %>
+  <div class="actions">
+    <%= f.button :submit, :class => 'btn-primary' %>
+  </div>
+<% end %>

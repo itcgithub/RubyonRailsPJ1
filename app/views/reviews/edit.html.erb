@@ -1,0 +1,4 @@
+<h1>Editing Review</h1>
+<%= render 'form', review: @review %>
+<%= link_to 'Show', book_review_path(@review.book, @review) %> |
+<%= link_to 'Back', reviews_path %>

@@ -1,0 +1,7 @@
+<h2><%= "#{@book.title}についてのレビュー" %></h2>
+<%= simple_form_for([@book, @review]) do |f| %>
+  <%= f.input :description %>
+  <div class="form-actions">
+    <%= f.button :submit, :class => 'btn-primary' %>
+  </div>
+<% end %>

@@ -1,0 +1,5 @@
+<h2><%= @review.book.title %></h2>
+<p><%= @review.user.name %>: </p>
+<blockquote><%= @review.description %></blockquote>
+<%= link_to 'Edit', edit_book_review_path(@review.book, @review) %> |
+<%= link_to 'Back', reviews_path %>
