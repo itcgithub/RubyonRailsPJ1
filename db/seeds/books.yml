@@ -1,0 +1,355 @@
+books:
+  -
+    title: "達人プログラマー―システム開発の職人から名匠への道"
+    author: "アンドリュー ハント, デビッド トーマス"
+  -
+    title: "新装版 リファクタリング―既存のコードを安全に改善する― (OBJECT TECHNOLOGY SERIES)"
+    author: "Martin Fowler"
+  -
+    title: "CODE COMPLETE 第2版 上 完全なプログラミングを目指して"
+    author: "矢沢久雄"
+  -
+    title: "CODE COMPLETE 第2版 下 完全なプログラミングを目指して"
+    author: "スティーブ マコネル"
+  -
+    title: "アジャイルサムライ−達人開発者への道−"
+    author: "Jonathan Rasmusson"
+  -
+    title: "アジャイルプラクティス 達人プログラマに学ぶ現場開発者の習慣"
+    author: "Venkat Subramaniam, Andy Hunt"
+  -
+    title: "プログラミング作法"
+    author: "ブライアン カーニハン, ロブ パイク"
+  -
+    title: "Webを支える技術 -HTTP、URI、HTML、そしてREST (WEB+DB PRESS plus)"
+    author: "山本 陽平"
+  -
+    title: "レガシーコード改善ガイド (Object Oriented SELECTION)"
+    author: "マイケル・C・フェザーズ"
+  -
+    title: "ハッカーと画家 コンピュータ時代の創造者たち"
+    author: "ポール グレアム"
+  -
+    title: "増補改訂版Java言語で学ぶデザインパターン入門"
+    author: "結城 浩"
+  -
+    title: "人月の神話【新装版】"
+    author: "Jr FrederickP.Brooks"
+  -
+    title: "体系的に学ぶ 安全なWebアプリケーションの作り方 脆弱性が生まれる原理と対策の実践"
+    author: "徳丸 浩"
+  -
+    title: "エリック・エヴァンスのドメイン駆動設計 (IT Architects’Archive ソフトウェア開発の実践)"
+    author: "エリック・エヴァンス"
+  -
+    title: "情熱プログラマー ソフトウェア開発者の幸せな生き方"
+    author: "Chad Fowler"
+  -
+    title: "Clean Code アジャイルソフトウェア達人の技"
+    author: "Robert C. Martin"
+  -
+    title: "誰のためのデザイン?―認知科学者のデザイン原論 (新曜社認知科学選書)"
+    author: "ドナルド・A. ノーマン, D.A. ノーマン"
+  -
+    title: "ピープルウエア 第3版"
+    author: "トム・デマルコ, ティモシー・リスター"
+  -
+    title: "プログラマが知るべき97のこと"
+    author: "和田 卓人 (監修), Kevlin Henney (編集), 夏目 大 (翻訳)"
+  -
+    title: "アジャイルな見積りと計画づくり ~価値あるソフトウェアを育てる概念と技法~"
+    author: "Mike Cohn, マイク コーン"
+  -
+    title: "マスタリングTCP/IP 入門編 第5版"
+    author: "竹下 隆史, 村山 公保, 荒井 透, 苅田 幸雄"
+  -
+    title: "Clean Coder プロフェッショナルプログラマへの道"
+    author: "Robert C. Martin"
+  -
+    title: "Joel on Software"
+    author: "Joel Spolsky"
+  -
+    title: "UNIXという考え方―その設計思想と哲学"
+    author: "Mike Gancarz"
+  -
+    title: "オブジェクト指向における再利用のためのデザインパターン"
+    author: "エリック ガンマ, ラルフ ジョンソン, リチャード ヘルム, ジョン ブリシディース"
+  -
+    title: "プログラミング言語C 第2版 ANSI規格準拠"
+    author: "B.W. カーニハン, D.M. リッチー"
+  -
+    title: "ノンデザイナーズ・デザインブック [フルカラー新装増補版]"
+    author: "Robin Williams"
+  -
+    title: "詳説 正規表現 第3版"
+    author: "Jeffrey E.F. Friedl"
+  -
+    title: "エンタープライズ アプリケーションアーキテクチャパターン (Object Oriented SELECTION)"
+    author: "マーチン・ファウラー"
+  -
+    title: "計算機プログラムの構造と解釈"
+    author: "ジェラルド・ジェイ サスマン, ジュリー サスマン, ハロルド エイブルソン"
+  -
+    title: "プログラムはこうして作られるプログラマの頭の中をのぞいてみよう"
+    author: "平山 尚(株式会社セガ)"
+  -
+    title: "リーン・スタートアップ"
+    author: "エリック・リース"
+  -
+    title: "継続的デリバリー 信頼できるソフトウェアリリースのためのビルド・テスト・デプロイメントの自動化"
+    author: "David Farley, Jez Humble"
+  -
+    title: "小さなチーム、大きな仕事〔完全版〕: 37シグナルズ成功の法則"
+    author: "ジェイソン・フリード, デイヴィッド・ハイネマイヤー・ハンソン"
+  -
+    title: "アルゴリズムクイックリファレンス"
+    author: "George T. Heineman, Gary Pollice, Stanley Selkow"
+  -
+    title: "アート・オブ・アジャイル デベロップメント ―組織を成功に導くエクストリームプログラミング (THEORY/IN/PRACTICE)"
+    author: "James Shore, Shane Warden"
+  -
+    title: "[改訂新版] これからはじめるプログラミング基礎の基礎"
+    author: "谷尻 かおり"
+  -
+    title: "新版暗号技術入門 秘密の国のアリス"
+    author: "結城 浩"
+  -
+    title: "アジャイルソフトウェア開発の奥義 第2版 オブジェクト指向開発の神髄と匠の技"
+    author: "ロバート・C・マーチン, Robert C. Martin"
+  -
+    title: "プログラミングの基礎 (Computer Science Library)"
+    author: "浅井 健一"
+  -
+    title: "基本から学ぶソフトウェアテスト"
+    author: "Cem Kaner, Hung Quoc Nguyen, Jack Falk"
+  -
+    title: "珠玉のプログラミング―本質を見抜いたアルゴリズムとデータ構造"
+    author: "ジョン ベントリー"
+  -
+    title: "知識ゼロから学ぶソフトウェアテスト 【改訂版】"
+    author: "高橋 寿一"
+  -
+    title: "Team Geek ―Googleのギークたちはいかにしてチームを作るのか"
+    author: "Brian W. Fitzpatrick, Ben Collins-Sussman"
+  -
+    title: "コーディングを支える技術 ~成り立ちから学ぶプログラミング作法 (WEB+DB PRESS plus)"
+    author: "西尾 泰和"
+  -
+    title: "世界で闘うプログラミング力を鍛える150問 ~トップIT企業のプログラマになるための本~"
+    author: "Gayle Laakmann McDowell"
+  -
+    title: "コンパイラ―原理・技法・ツール (Information &amp; Computing)"
+    author: "A.V. エイホ, R. セシィ, J.D. ウルマン, M.S. ラム"
+  -
+    title: "[24時間365日] サーバ/インフラを支える技術 ‾スケーラビリティ、ハイパフォーマンス、省力運用 (WEB+DB PRESS plusシリーズ)"
+    author: "安井 真伸, 横川 和哉, ひろせ まさあき, 伊藤 直也, 田中 慎司, 勝見 祐己"
+  -
+    title: "達人に学ぶ SQL徹底指南書 (CodeZine BOOKS)"
+    author: "ミック"
+  -
+    title: "ネットワークはなぜつながるのか 第2版 知っておきたいTCP/IP、LAN、光ファイバの基礎知識"
+    author: "戸根 勤"
+  -
+    title: "プログラマの数学"
+    author: "結城 浩"
+  -
+    title: "ライト、ついてますか―問題発見の人間学"
+    author: "ドナルド・C・ゴース, G.M.ワインバーグ"
+  -
+    title: "Web API: The Good Parts"
+    author: "水野 貴明"
+  -
+    title: "珠玉のプログラミング 本質を見抜いたアルゴリズムとデータ構造"
+    author: "ジョン・ベントリー"
+  -
+    title: "プログラマの考え方がおもしろいほど身につく本 問題解決能力を鍛えよう!"
+    author: "V.Anton Spraul"
+  -
+    title: "JUnit実践入門 ~体系的に学ぶユニットテストの技法 (WEB+DB PRESS plus)"
+    author: "渡辺 修司"
+  -
+    title: "JavaScript 第6版"
+    author: "David Flanagan"
+  -
+    title: "Webエンジニアのための データベース技術[実践]入門 (Software Design plus)"
+    author: "松信 嘉範"
+  -
+    title: "テスト駆動JavaScript"
+    author: "Christian Johansen"
+  -
+    title: "Jenkins実践入門 ～ビルド・テスト・デプロイを自動化する技術 (WEB+DB PRESS plus)"
+    author: "佐藤 聖規, 和田 貴久, 河村 雅人, 米沢 弘樹, 山岸 啓"
+  -
+    title: "７つの言語 ７つの世界"
+    author: "Bruce A. Tate"
+  -
+    title: "リファクタリング・ウェットウェア ―達人プログラマーの思考法と学習法"
+    author: "Andy Hunt"
+  -
+    title: "Effective Java 第2版 (The Java Series)"
+    author: "Joshua Bloch"
+  -
+    title: "初めてのRuby"
+    author: "Yugui"
+  -
+    title: "アジャイルレトロスペクティブズ 強いチームを育てる「ふりかえり」の手引き"
+    author: "Esther Derby, Diana Larsen"
+  -
+    title: "新訂版 More Effective C++ (AddisonーWesley professional co)"
+    author: "スコット・メイヤーズ"
+  -
+    title: "数学ガール (数学ガールシリーズ 1)"
+    author: "結城 浩"
+  -
+    title: "Java並行処理プログラミング ―その「基盤」と「最新API」を究める―"
+    author: "Brian Goetz, Joshua Bloch, Doug Lea"
+  -
+    title: "ソフトウェア見積り"
+    author: "スティーブ マコネル"
+  -
+    title: "アート・オブ・プロジェクトマネジメント ―マイクロソフトで培われた実践手法 (THEORY/IN/PRACTICE)"
+    author: "Scott Berkun"
+  -
+    title: "Effective C++ 原著第3版 (ADDISON-WESLEY PROFESSIONAL COMPUTING SERIES)"
+    author: "スコット・メイヤーズ"
+  -
+    title: "The Art of Computer Programming Volume1 Fundamental Algorithms Third Edition 日本語版 (ASCII Addison Wesley Programming Series)"
+    author: "ドナルド・E・クヌース"
+  -
+    title: "プログラミングPerl〈VOLUME1〉"
+    author: "ラリー ウォール, ジョン オーワント, トム クリスチャンセン"
+  -
+    title: "プログラム書法 第2版"
+    author: "Brian W.Kernighan, P.J.Plauger"
+  -
+    title: "アイディアを実現させる最高のツール プログラミングをはじめよう"
+    author: "池澤 あやか"
+  -
+    title: "理論から学ぶデータベース実践入門 ~リレーショナルモデルによる効率的なSQL (WEB+DB PRESS plus)"
+    author: "奥野 幹也"
+  -
+    title: "アルゴリズムパズル ―プログラマのための数学パズル入門"
+    author: "Anany Levitin, Maria Levitin"
+  -
+    title: "EFFECTIVE JAVA 第2版 (The Java Series)"
+    author: "Joshua Bloch"
+  -
+    title: "実践ハイパフォーマンスMySQL 第3版"
+    author: "Baron Schwartz, Peter Zaitsev, Vadim Tkachenko"
+  -
+    title: "プログラマのためのSQL 第4版"
+    author: "ジョー・セルコ, Joe Celko"
+  -
+    title: "SCRUM BOOT CAMP THE BOOK"
+    author: "西村 直人, 永瀬 美穂, 吉羽 龍太郎"
+  -
+    title: "すごいHaskellたのしく学ぼう!"
+    author: "Miran Lipovača"
+  -
+    title: "The RSpec Book (Professional Ruby Series)"
+    author: "David Chelimsky, Dave Astels, Zach Dennis"
+  -
+    title: "Jenkins"
+    author: "John Ferguson Smart"
+  -
+    title: "プログラミングコンテストチャレンジブック [第2版] ～問題解決のアルゴリズム活用力とコーディングテクニックを鍛える～"
+    author: "秋葉拓哉, 岩田陽一, 北川宜稔"
+  -
+    title: "いきなりはじめるPHP~ワクワク・ドキドキの入門教室~"
+    author: "谷藤賢一"
+  -
+    title: "RailsによるアジャイルWebアプリケーション開発 第4版"
+    author: "Sam Ruby, Dave Thomas, David Heinemeier Hansson"
+  -
+    title: "パーフェクトJavaScript (PERFECT SERIES 4)"
+    author: "井上 誠一郎, 土江 拓郎, 浜辺 将太"
+  -
+    title: "ソフトウェア・テスト PRESS 総集編"
+    author: "ソフトウェア・テストPRESS編集部 編"
+  -
+    title: "プログラミング言語の基礎概念 (ライブラリ情報学コア・テキスト)"
+    author: "五十嵐 淳"
+  -
+    title: "Coders at Work プログラミングの技をめぐる探求"
+    author: "Peter Seibel"
+  -
+    title: "良いコードを書く技術 －読みやすく保守しやすいプログラミング作法 (WEB+DB PRESS plus)"
+    author: "縣 俊貴"
+  -
+    title: "オブジェクト指向でなぜつくるのか 第2版"
+    author: "平澤 章"
+  -
+    title: "オンラインゲームを支える技術 －－壮大なプレイ空間の舞台裏 (WEB+DB PRESS plus)"
+    author: "中嶋 謙互"
+  -
+    title: "[Web開発者のための]大規模サービス技術入門 ―データ構造、メモリ、OS、DB、サーバ/インフラ (WEB+DB PRESS plusシリーズ)"
+    author: "伊藤 直也, 田中 慎司"
+  -
+    title: "CD付 SQL ゼロからはじめるデータベース操作 (プログラミング学習シリーズ)"
+    author: "ミック"
+  -
+    title: "エキスパートPythonプログラミング"
+    author: "Tarek Ziade"
+  -
+    title: "「プロになるためのWeb技術入門」 ――なぜ、あなたはWebシステムを開発できないのか"
+    author: "小森 裕介"
+  -
+    title: "Growing Object-Oriented Software, Guided by Tests (Addison-Wesley Signature Series (Beck))"
+    author: "Steve Freeman, Nat Pryce"
+  -
+    title: "ソフトウェアアーキテクトが知るべき97のこと"
+    author:
+  -
+    title: "入門git"
+    author: "Travis Swicegood"
+  -
+    title: "プロダクティブ・プログラマ -プログラマのための生産性向上術 (THEORY/IN/PRACTICE)"
+    author: "Neal Ford"
+  -
+    title: "実装パターン"
+    author: "ケント・ベック, Kent Beck"
+  -
+    title: "Manage It! 現場開発者のための達人式プロジェクトマネジメント"
+    author: "Johanna Rothman"
+  -
+    title: "アルゴリズムデザイン"
+    author: "Jon Kleinberg, Eva Tardos"
+  -
+    title: "Googleを支える技術 ‾巨大システムの内側の世界 (WEB+DB PRESSプラスシリーズ)"
+    author: "西田 圭介"
+  -
+    title: "実践UML 第3版 オブジェクト指向分析設計と反復型開発入門"
+    author: "クレーグ・ラーマン"
+  -
+    title: "'コンピュータプログラミングの概念・技法・モデル (IT Architects'' Archiveクラシックモダン・コンピューティング)'"
+    author: "セイフ・ハリディ, ピーター・ヴァン・ロイ, Peter Van-Roy, Seif Haridi"
+  -
+    title: "xUnit Test Patterns: Refactoring Test Code (Addison-Wesley Signature Series (Fowler))"
+    author: "Gerard Meszaros"
+  -
+    title: "プログラミング言語Java (The Java Series)"
+    author: "ケン・アーノルド, ジェームズ ゴスリン, デビッド ホームズ, 柴田 芳樹"
+  -
+    title: "ウェブユーザビリティの法則 改訂第2版"
+    author: "スティーブ・クルーグ"
+  -
+    title: "On Lisp"
+    author: "ポール グレアム, 野田 開"
+  -
+    title: "楽々ERDレッスン (CodeZine BOOKS)"
+    author: "(株)スターロジック 羽生 章洋"
+  -
+    title: "増補改訂版 Java言語で学ぶデザインパターン入門 マルチスレッド編"
+    author: "結城 浩"
+  -
+    title: "コンピュータの構成と設計~ハードウエアとソフトウエアのインタフェース 第3版 (上)"
+    author: "デイビッド・A. パターソン, ジョン・L. ヘネシー"
+  -
+    title: "データベース実践講義 ―エンジニアのためのリレーショナル理論 (THEORY/IN/PRACTICE)"
+    author: "C.J.Date"
+  -
+    title: "ふつうのLinuxプログラミング Linuxの仕組みから学べるgccプログラミングの王道"
+    author: "青木 峰郎"
+  -
+    title: "UML モデリングのエッセンス 第3版 (Object Oriented SELECTION)"
+    author: "マーチン・ファウラー"
