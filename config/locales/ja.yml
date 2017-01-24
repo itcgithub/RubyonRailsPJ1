@@ -1,0 +1,15 @@
+ja:
+  activerecord:
+    attributes:
+      book:
+        title: "タイトル"
+        author: "著者"
+    errors:
+      models:
+        book:
+          attributes:
+            title:
+              blank: "タイトルは必ず入力してください"
+              too_long: "タイトルが長すぎます"
+            author:
+              too_long: "著者の文字数が大きすぎます"
